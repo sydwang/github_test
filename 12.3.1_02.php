@@ -7,7 +7,7 @@
       $file_name = "ftp://user:pass@ftp.myserver.com/usr/home/dj/$file_name"; 
       $fp = fopen($file_name,  'wt');
       if ($fp) {
-        echo 'ÕýÔÚÐ´Èë...';
+        echo 'Well done!';
         fwrite($fp,  $data);
         fclose($fp);
       }
