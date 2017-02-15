@@ -1,4 +1,8 @@
 first line. This is a newly added file.
 Original positions is first-branch.
 
+Second section of the file
+This will cause the second commit of the file.
+
+
 
